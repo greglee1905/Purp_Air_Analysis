@@ -1,2 +1,2 @@
 # Purp_Air_Analysis
-Scraping, analysis and prediction from spatial air pollution data from purple air sensors.
+Scraping and analysis of Utah air pollution from purpleair sensors.
