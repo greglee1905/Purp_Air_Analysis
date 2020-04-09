@@ -1,4 +1,5 @@
 #git ignore file
 
 #Ignore any produced files until the project is finalized
+
 *.csv
