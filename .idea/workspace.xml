@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="326e2e7d-4bee-4f8c-af81-c030fc50437a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/purp_df_full.zip" beforeDir="false" afterPath="$PROJECT_DIR$/purp_df_full.zip" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bQ5Xfl2cuZhLMTwUgicAecPU9O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="326e2e7d-4bee-4f8c-af81-c030fc50437a" name="Default Changelist" comment="" />
+      <created>1588551517406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588551517406</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="781" y="168" key="SettingsEditor" timestamp="1589043218182">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="781" y="168" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1589043218182" />
+    <state x="678" y="246" width="672" height="678" key="search.everywhere.popup" timestamp="1588552045593">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="678" y="246" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1588552045593" />
+  </component>
+</project>
